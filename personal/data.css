@@ -1,0 +1,21 @@
+#firstid{
+   text-align: center;
+   width: fit-content;
+   margin-left: 40%;
+   margin-top: 10%;
+  
+}
+#size-space{
+    text-decoration: none;
+    background-color: #130583;
+    color: #f0ffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.feeld{
+    border: 2px solid #008000;
+
+}
+.labeel-1{
+    text-align:right;
+}
